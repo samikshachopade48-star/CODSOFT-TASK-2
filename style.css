@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    font-family: Verdana, sans-serif;
+    background-color: #eef2f7;
+}
+
+/* TOP BAR */
+.top {
+    background-color: #34495e;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+/* MAIN */
+.container {
+    max-width: 600px;
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+}
+
+/* IMAGE */
+.container img {
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    margin: 20px 0;
+}
+
+/* CARD */
+.card {
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 15px;
+    border-radius: 6px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+.card h2 {
+    color: #34495e;
+}
+
+/* FOOTER */
+footer {
+    background-color: #34495e;
+    color: white;
+    text-align: center;
+    padding: 12px;
+    margin-top: 20px;
+}
